@@ -21,6 +21,7 @@
 #   P1-09: GND        P1-18: GPIO24
 #                     P1-19: GPIO10
 #
+# Code by G0to
 # Jim Herd : modified to use GPIO25
 #
 
